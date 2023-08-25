@@ -18,4 +18,4 @@ I'm Arjun Shah, a passionate software engineer with a strong background in AI, m
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/arjunshah17/) to explore the possibilities together!
 
-Stay curious, and let's shape the future through innovation! 🎉
+🔮 Stay curious, and let's shape the future through innovation! 
