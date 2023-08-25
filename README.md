@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**arjunshah17/arjunshah17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arjun Shah, a passionate software engineer with a strong background in AI, mobile development, and full-stack technologies.
 
-Here are some ideas to get you started:
+🚀 **Software Engineer | AI Enthusiast | Full Stack Developer** 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Master's in Software Engineering** | California State University, Fullerton | Dec 2023
+
+🤖 Currently pioneering **Language Models and Generative AI** as a Research Assistant at California state university, fullerton 🧠
+
+📱 Mobile App Aficionado | Crafting user-friendly experiences that **sparkle** ✨
+
+💻 Full Stack Developer | Building bridges between **frontend and backend** technologies 🌐
+
+🌱 Always curious, constantly learning, and forever **exploring** new tech horizons 🚀
+
+🏞️ When I'm not coding, you'll find me **hiking** or **rock climbing**, embracing creativity outdoors! 🌄
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/arjunshah17/) to explore the possibilities together!
+
+Stay curious, and let's shape the future through innovation! 🎉
