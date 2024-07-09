@@ -4,7 +4,7 @@ I'm Arjun Shah, a passionate software engineer with a strong background in AI, m
 
 🚀 **Software Engineer | AI Enthusiast | Full Stack Developer** 🌟
 
-🎓 **Master's in Software Engineering** | California State University, Fullerton | Dec 2023
+🎓 **Master's in Software Engineering** | California State University, Fullerton
 
 🤖 Currently pioneering **Language Models and Generative AI** as a Research Assistant at California state university, fullerton 🧠
 
